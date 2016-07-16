@@ -1,0 +1,533 @@
+,年月日,時間 (ULAT),温度,露点温度,湿度,気圧,視程,Wind Dir,風速,突風の速度,Precip,イベント,現在の気象状況
+0,2016年5月1日,12:00 AM,0 °C,-8 °C,44%,1024 hPa,20 km,SE,14.4 km/h /,-,-,,Scattered Clouds
+1,2016年5月1日,3:00 AM,-1 °C,-9 °C,44%,1026 hPa,20 km,WSW,21.6 km/h /,-,-,,
+2,2016年5月1日,6:00 AM,-1 °C,-8 °C,43%,1026 hPa,20 km,WNW,14.4 km/h /,-,-,,
+3,2016年5月1日,9:00 AM,0 °C,-8 °C,42%,1027 hPa,20 km,West,21.6 km/h /,-,-,,Clear
+4,2016年5月1日,12:00 PM,4 °C,-7 °C,34%,1025 hPa,20 km,West,25.2 km/h /,-,-,,Scattered Clouds
+5,2016年5月1日,3:00 PM,8 °C,-6 °C,24%,1020 hPa,20 km,WSW,21.6 km/h /,-,-,,Scattered Clouds
+6,2016年5月1日,6:00 PM,10 °C,-8 °C,17%,1017 hPa,20 km,West,14.4 km/h /,-,-,,Scattered Clouds
+7,2016年5月1日,9:00 PM,10 °C,-7 °C,18%,1016 hPa,20 km,WSW,7.2 km/h /,-,-,,Scattered Clouds
+8,2016年5月2日,12:00 AM,5 °C,-10 °C,21%,1018 hPa,20 km,SSW,10.8 km/h /,-,-,,Scattered Clouds
+9,2016年5月2日,3:00 AM,2 °C,-7 °C,37%,1020 hPa,20 km,West,7.2 km/h /,-,-,,Mostly Cloudy
+10,2016年5月2日,6:00 AM,0 °C,-7 °C,47%,1020 hPa,20 km,WNW,7.2 km/h /,-,-,,Scattered Clouds
+11,2016年5月2日,9:00 AM,-1 °C,-5 °C,59%,1021 hPa,20 km,WNW,3.6 km/h /,-,-,,Scattered Clouds
+12,2016年5月2日,12:00 PM,8 °C,-8 °C,20%,1014 hPa,20 km,WNW,10.8 km/h /,-,-,,Scattered Clouds
+13,2016年5月2日,3:00 PM,10 °C,-9 °C,14%,1010 hPa,20 km,WSW,18.0 km/h /,-,-,,Scattered Clouds
+14,2016年5月2日,6:00 PM,12 °C,-11 °C,9%,1006 hPa,20 km,SSE,14.4 km/h /,-,-,,Scattered Clouds
+15,2016年5月2日,9:00 PM,13 °C,-13 °C,7%,1004 hPa,20 km,NW,7.2 km/h /,-,-,,Partly Cloudy
+16,2016年5月3日,12:00 AM,10 °C,-10 °C,12%,1007 hPa,20 km,West,36.0 km/h /,-,-,,Partly Cloudy
+17,2016年5月3日,3:00 AM,6 °C,-7 °C,27%,1010 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+18,2016年5月3日,6:00 AM,3 °C,-6 °C,37%,1012 hPa,20 km,West,18.0 km/h /,-,-,,Scattered Clouds
+19,2016年5月3日,9:00 AM,4 °C,-5 °C,36%,1011 hPa,20 km,West,14.4 km/h /,-,-,,Scattered Clouds
+20,2016年5月3日,12:00 PM,9 °C,-2 °C,33%,1006 hPa,20 km,West,36.0 km/h /,-,-,,Partly Cloudy
+21,2016年5月3日,3:00 PM,10 °C,-2 °C,31%,1004 hPa,20 km,WNW,36.0 km/h /,-,-,,Partly Cloudy
+22,2016年5月3日,6:00 PM,9 °C,0 °C,42%,1005 hPa,20 km,WNW,21.6 km/h /,-,-,,Partly Cloudy
+23,2016年5月3日,9:00 PM,7 °C,-5 °C,31%,1012 hPa,10 km,NW,21.6 km/h /,-,-,,Mostly Cloudy
+24,2016年5月4日,12:00 AM,-2 °C,-10 °C,44%,1023 hPa,20 km,North,25.2 km/h /,-,-,,Partly Cloudy
+25,2016年5月4日,3:00 AM,-3 °C,-12 °C,39%,1026 hPa,20 km,West,14.4 km/h /,-,-,,
+26,2016年5月4日,6:00 AM,-4 °C,-12 °C,40%,1027 hPa,20 km,South,7.2 km/h /,-,-,,
+27,2016年5月4日,9:00 AM,-5 °C,-13 °C,42%,1029 hPa,20 km,WNW,10.8 km/h /,-,-,,
+28,2016年5月4日,12:00 PM,-1 °C,-10 °C,36%,1027 hPa,20 km,ESE,7.2 km/h /,-,-,,
+29,2016年5月4日,3:00 PM,2 °C,-13 °C,19%,1023 hPa,20 km,East,14.4 km/h /,-,-,,
+30,2016年5月4日,6:00 PM,5 °C,-9 °C,24%,1021 hPa,20 km,NE,7.2 km/h /,-,-,,
+31,2016年5月4日,9:00 PM,5 °C,-9 °C,22%,1022 hPa,20 km,ENE,21.6 km/h /,-,-,,
+32,2016年5月5日,12:00 AM,0 °C,-12 °C,26%,1027 hPa,20 km,ENE,21.6 km/h /,-,-,,
+33,2016年5月5日,3:00 AM,-3 °C,-11 °C,40%,1030 hPa,20 km,SSW,10.8 km/h /,-,-,,
+34,2016年5月5日,6:00 AM,-5 °C,-12 °C,44%,1031 hPa,20 km,WSW,3.6 km/h /,-,-,,
+35,2016年5月5日,9:00 AM,-4 °C,-9 °C,54%,1030 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+36,2016年5月5日,12:00 PM,4 °C,-10 °C,24%,1023 hPa,20 km,ENE,18.0 km/h /,-,-,,Clear
+37,2016年5月5日,3:00 PM,10 °C,-8 °C,16%,1016 hPa,20 km,ESE,21.6 km/h /,-,-,,Clear
+38,2016年5月5日,6:00 PM,11 °C,-7 °C,15%,1013 hPa,20 km,ENE,28.8 km/h /,-,-,,Scattered Clouds
+39,2016年5月5日,9:00 PM,10 °C,-6 °C,19%,1013 hPa,20 km,ESE,21.6 km/h /,-,-,,Scattered Clouds
+40,2016年5月6日,12:00 AM,6 °C,-7 °C,27%,1016 hPa,20 km,WSW,14.4 km/h /,-,-,,Mostly Cloudy
+41,2016年5月6日,3:00 AM,4 °C,-7 °C,35%,1017 hPa,20 km,SSW,7.2 km/h /,-,-,,Scattered Clouds
+42,2016年5月6日,6:00 AM,2 °C,-8 °C,35%,1016 hPa,20 km,SSE,10.8 km/h /,-,-,,Scattered Clouds
+43,2016年5月6日,9:00 AM,1 °C,-5 °C,50%,1016 hPa,20 km,SW,7.2 km/h /,-,-,,Scattered Clouds
+44,2016年5月6日,12:00 PM,8 °C,-3 °C,32%,1011 hPa,10 km,SW,7.2 km/h /,-,-,,Mostly Cloudy
+45,2016年5月6日,3:00 PM,10 °C,1 °C,40%,1009 hPa,20 km,SW,32.4 km/h /,-,-,,Mostly Cloudy
+46,2016年5月6日,6:00 PM,11 °C,2 °C,42%,1006 hPa,20 km,WSW,25.2 km/h /,-,-,,Mostly Cloudy
+47,2016年5月6日,9:00 PM,11 °C,-0 °C,33%,1008 hPa,20 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+48,2016年5月7日,12:00 AM,8 °C,-0 °C,43%,1014 hPa,20 km,SE,10.8 km/h /,-,-,,Mostly Cloudy
+49,2016年5月7日,3:00 AM,4 °C,0 °C,72%,1018 hPa,20 km,SE,18.0 km/h /,-,-,,Partly Cloudy
+50,2016年5月7日,6:00 AM,4 °C,-1 °C,63%,1020 hPa,20 km,NNE,18.0 km/h /,-,-,,Mostly Cloudy
+51,2016年5月7日,9:00 AM,2 °C,-1 °C,74%,1023 hPa,10 km,Calm,Calm,-,-,Snow,Light Snow
+52,2016年5月7日,12:00 PM,5 °C,1 °C,65%,1022 hPa,10 km,WNW,10.8 km/h /,-,-,,Mostly Cloudy
+53,2016年5月7日,3:00 PM,8 °C,-2 °C,34%,1019 hPa,10 km,West,10.8 km/h /,-,-,,Partly Cloudy
+54,2016年5月7日,6:00 PM,10 °C,-4 °C,24%,1016 hPa,10 km,NW,14.4 km/h /,-,-,,Partly Cloudy
+55,2016年5月7日,9:00 PM,11 °C,-5 °C,21%,1016 hPa,20 km,SE,7.2 km/h /,-,-,,Scattered Clouds
+56,2016年5月8日,12:00 AM,5 °C,-6 °C,31%,1021 hPa,20 km,South,18.0 km/h /,-,-,,
+57,2016年5月8日,3:00 AM,1 °C,-5 °C,53%,1024 hPa,20 km,WSW,7.2 km/h /,-,-,,
+58,2016年5月8日,6:00 AM,-1 °C,-7 °C,55%,1025 hPa,20 km,Calm,Calm,-,-,,
+59,2016年5月8日,9:00 AM,-0 °C,-5 °C,57%,1025 hPa,20 km,WSW,3.6 km/h /,-,-,,Scattered Clouds
+60,2016年5月8日,12:00 PM,8 °C,-2 °C,34%,1018 hPa,20 km,NE,3.6 km/h /,-,-,,Scattered Clouds
+61,2016年5月8日,3:00 PM,14 °C,-5 °C,15%,1011 hPa,20 km,West,14.4 km/h /,-,-,,Scattered Clouds
+62,2016年5月8日,6:00 PM,16 °C,-6 °C,10%,1007 hPa,20 km,WSW,21.6 km/h /,-,-,,Clear
+63,2016年5月8日,9:00 PM,17 °C,-5 °C,12%,1005 hPa,20 km,SW,28.8 km/h /,-,-,,Partly Cloudy
+64,2016年5月9日,12:00 AM,12 °C,-5 °C,17%,1007 hPa,20 km,West,18.0 km/h /,-,-,,Mostly Cloudy
+65,2016年5月9日,3:00 AM,12 °C,-5 °C,18%,1006 hPa,20 km,WNW,18.0 km/h /,-,-,,Partly Cloudy
+66,2016年5月9日,6:00 AM,11 °C,-2 °C,26%,1004 hPa,20 km,West,14.4 km/h /,-,-,,Partly Cloudy
+67,2016年5月9日,9:00 AM,11 °C,-1 °C,32%,1001 hPa,20 km,West,25.2 km/h /,-,-,,Partly Cloudy
+68,2016年5月9日,12:00 PM,14 °C,-2 °C,19%,999 hPa,10 km,WNW,21.6 km/h /,-,-,,Mostly Cloudy
+69,2016年5月9日,3:00 PM,14 °C,-1 °C,25%,1000 hPa,20 km,West,39.6 km/h /,-,-,,Partly Cloudy
+70,2016年5月9日,6:00 PM,14 °C,4 °C,39%,999 hPa,20 km,NNW,32.4 km/h /,-,-,,Mostly Cloudy
+71,2016年5月9日,9:00 PM,12 °C,2 °C,41%,1002 hPa,10 km,NE,21.6 km/h /,-,-,,Mostly Cloudy
+72,2016年5月10日,12:00 AM,8 °C,0 °C,46%,1007 hPa,20 km,ESE,7.2 km/h /,-,-,,Mostly Cloudy
+73,2016年5月10日,3:00 AM,5 °C,-2 °C,48%,1010 hPa,20 km,SE,10.8 km/h /,-,-,,Mostly Cloudy
+74,2016年5月10日,6:00 AM,2 °C,-3 °C,59%,1011 hPa,20 km,SE,14.4 km/h /,-,-,,Scattered Clouds
+75,2016年5月10日,9:00 AM,3 °C,-3 °C,57%,1012 hPa,20 km,ESE,21.6 km/h /,-,-,,Mostly Cloudy
+76,2016年5月10日,12:00 PM,6 °C,-4 °C,36%,1011 hPa,20 km,East,21.6 km/h /,-,-,,Scattered Clouds
+77,2016年5月10日,3:00 PM,7 °C,-5 °C,29%,1009 hPa,20 km,East,28.8 km/h /,-,-,,Mostly Cloudy
+78,2016年5月10日,6:00 PM,2 °C,-4 °C,50%,1014 hPa,10 km,ENE,39.6 km/h /,-,-,,Overcast
+79,2016年5月10日,9:00 PM,-1 °C,-3 °C,85%,1019 hPa,2 km,ENE,10.8 km/h /,-,-,Snow,Snow
+80,2016年5月11日,12:00 AM,0 °C,-4 °C,59%,1021 hPa,20 km,ESE,7.2 km/h /,-,-,,Partly Cloudy
+81,2016年5月11日,3:00 AM,-1 °C,-11 °C,33%,1024 hPa,20 km,ENE,14.4 km/h /,-,-,,Partly Cloudy
+82,2016年5月11日,6:00 AM,-4 °C,-13 °C,39%,1028 hPa,20 km,SE,7.2 km/h /,-,-,,Scattered Clouds
+83,2016年5月11日,9:00 AM,-4 °C,-10 °C,45%,1030 hPa,20 km,ENE,3.6 km/h /,-,-,,Scattered Clouds
+84,2016年5月11日,12:00 PM,2 °C,-14 °C,16%,1026 hPa,20 km,WNW,21.6 km/h /,-,-,,Scattered Clouds
+85,2016年5月11日,3:00 PM,4 °C,-14 °C,13%,1023 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+86,2016年5月11日,6:00 PM,9 °C,-10 °C,13%,1017 hPa,20 km,West,21.6 km/h /,-,-,,Clear
+87,2016年5月11日,9:00 PM,11 °C,-13 °C,8%,1013 hPa,20 km,WSW,28.8 km/h /,-,-,,Partly Cloudy
+88,2016年5月12日,12:00 AM,9 °C,-15 °C,8%,1014 hPa,20 km,WSW,32.4 km/h /,-,-,,Scattered Clouds
+89,2016年5月12日,3:00 AM,5 °C,-16 °C,9%,1016 hPa,20 km,WNW,21.6 km/h /,-,-,,Scattered Clouds
+90,2016年5月12日,6:00 AM,5 °C,-16 °C,10%,1014 hPa,20 km,West,28.8 km/h /,-,-,,Scattered Clouds
+91,2016年5月12日,9:00 AM,5 °C,-17 °C,8%,1013 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+92,2016年5月12日,12:00 PM,10 °C,-13 °C,9%,1008 hPa,20 km,West,28.8 km/h /,-,-,,Scattered Clouds
+93,2016年5月12日,3:00 PM,13 °C,-12 °C,7%,1003 hPa,20 km,West,36.0 km/h /,-,-,,Clear
+94,2016年5月12日,6:00 PM,14 °C,-11 °C,8%,1000 hPa,10 km,West,43.2 km/h /,-,-,,Partly Cloudy
+95,2016年5月12日,9:00 PM,5 °C,-7 °C,28%,1012 hPa,10 km,WNW,36.0 km/h /,-,-,,Mostly Cloudy
+96,2016年5月13日,12:00 AM,4 °C,-8 °C,27%,1015 hPa,20 km,WNW,14.4 km/h /,-,-,,Partly Cloudy
+97,2016年5月13日,3:00 AM,0 °C,-10 °C,31%,1019 hPa,20 km,WSW,21.6 km/h /,-,-,,Partly Cloudy
+98,2016年5月13日,6:00 AM,1 °C,-8 °C,39%,1021 hPa,20 km,West,14.4 km/h /,-,-,,Mostly Cloudy
+99,2016年5月13日,9:00 AM,1 °C,-8 °C,38%,1024 hPa,20 km,WSW,28.8 km/h /,-,-,,Partly Cloudy
+100,2016年5月13日,12:00 PM,4 °C,-9 °C,26%,1024 hPa,20 km,WNW,18.0 km/h /,-,-,,Partly Cloudy
+101,2016年5月13日,3:00 PM,4 °C,-8 °C,27%,1026 hPa,20 km,ESE,21.6 km/h /,-,-,,Mostly Cloudy
+102,2016年5月13日,6:00 PM,8 °C,-12 °C,12%,1022 hPa,20 km,WNW,25.2 km/h /,-,-,,Partly Cloudy
+103,2016年5月13日,9:00 PM,8 °C,-13 °C,10%,1023 hPa,20 km,West,28.8 km/h /,-,-,,Scattered Clouds
+104,2016年5月14日,12:00 AM,4 °C,-12 °C,17%,1029 hPa,20 km,West,7.2 km/h /,-,-,,
+105,2016年5月14日,3:00 AM,-0 °C,-14 °C,21%,1033 hPa,20 km,WNW,3.6 km/h /,-,-,,
+106,2016年5月14日,6:00 AM,-4 °C,-13 °C,34%,1035 hPa,20 km,SW,3.6 km/h /,-,-,,
+107,2016年5月14日,9:00 AM,0 °C,-9 °C,36%,1033 hPa,20 km,ESE,3.6 km/h /,-,-,,
+108,2016年5月14日,12:00 PM,10 °C,-6 °C,20%,1025 hPa,20 km,North,3.6 km/h /,-,-,,Clear
+109,2016年5月14日,3:00 PM,14 °C,-5 °C,15%,1020 hPa,20 km,North,7.2 km/h /,-,-,,
+110,2016年5月14日,6:00 PM,17 °C,-7 °C,9%,1016 hPa,20 km,ESE,10.8 km/h /,-,-,,
+111,2016年5月14日,9:00 PM,17 °C,-8 °C,9%,1013 hPa,20 km,ENE,14.4 km/h /,-,-,,Clear
+112,2016年5月15日,12:00 AM,10 °C,-6 °C,19%,1018 hPa,20 km,ESE,10.8 km/h /,-,-,,Scattered Clouds
+113,2016年5月15日,3:00 AM,6 °C,-7 °C,25%,1020 hPa,20 km,South,7.2 km/h /,-,-,,Mostly Cloudy
+114,2016年5月15日,6:00 AM,2 °C,-9 °C,32%,1022 hPa,20 km,WSW,7.2 km/h /,-,-,,Scattered Clouds
+115,2016年5月15日,9:00 AM,2 °C,-7 °C,39%,1022 hPa,20 km,SW,3.6 km/h /,-,-,,Mostly Cloudy
+116,2016年5月15日,12:00 PM,13 °C,-4 °C,18%,1012 hPa,20 km,East,14.4 km/h /,-,-,,Clear
+117,2016年5月15日,3:00 PM,19 °C,-4 °C,12%,1006 hPa,20 km,West,18.0 km/h /,-,-,,Scattered Clouds
+118,2016年5月15日,6:00 PM,21 °C,-3 °C,11%,1002 hPa,20 km,WSW,28.8 km/h /,-,-,,Scattered Clouds
+119,2016年5月15日,9:00 PM,20 °C,-4 °C,11%,1001 hPa,20 km,West,28.8 km/h /,-,-,,Scattered Clouds
+120,2016年5月16日,12:00 AM,16 °C,-3 °C,16%,1003 hPa,20 km,West,25.2 km/h /,-,-,,Mostly Cloudy
+121,2016年5月16日,3:00 AM,13 °C,-2 °C,23%,1004 hPa,20 km,West,18.0 km/h /,-,-,,Partly Cloudy
+122,2016年5月16日,6:00 AM,12 °C,-1 °C,29%,1004 hPa,20 km,WNW,21.6 km/h /,-,-,,Mostly Cloudy
+123,2016年5月16日,9:00 AM,12 °C,-0 °C,29%,1002 hPa,20 km,West,28.8 km/h /,-,-,,Partly Cloudy
+124,2016年5月16日,12:00 PM,16 °C,2 °C,29%,1000 hPa,20 km,West,46.8 km/h /,-,-,,Partly Cloudy
+125,2016年5月16日,3:00 PM,17 °C,-0 °C,20%,999 hPa,20 km,WNW,46.8 km/h /,-,-,,Light Sandstorm
+126,2016年5月16日,6:00 PM,18 °C,1 °C,21%,998 hPa,20 km,NW,32.4 km/h /,-,-,,Partly Cloudy
+127,2016年5月16日,9:00 PM,16 °C,1 °C,25%,999 hPa,20 km,WNW,25.2 km/h /,-,-,,Partly Cloudy
+128,2016年5月17日,12:00 AM,13 °C,0 °C,30%,1001 hPa,20 km,SSW,3.6 km/h /,-,-,,Mostly Cloudy
+129,2016年5月17日,3:00 AM,13 °C,1 °C,31%,1000 hPa,20 km,WNW,21.6 km/h /,-,-,,Scattered Clouds
+130,2016年5月17日,6:00 AM,11 °C,2 °C,40%,1001 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+131,2016年5月17日,9:00 AM,12 °C,2 °C,39%,1000 hPa,20 km,West,18.0 km/h /,-,-,,Partly Cloudy
+132,2016年5月17日,12:00 PM,15 °C,3 °C,30%,997 hPa,20 km,West,25.2 km/h /,-,-,,Mostly Cloudy
+133,2016年5月17日,3:00 PM,14 °C,4 °C,41%,998 hPa,10 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+134,2016年5月17日,6:00 PM,16 °C,2 °C,26%,996 hPa,20 km,SW,28.8 km/h /,-,-,,Partly Cloudy
+135,2016年5月17日,9:00 PM,17 °C,0 °C,21%,995 hPa,20 km,WNW,28.8 km/h /,-,-,,Partly Cloudy
+136,2016年5月18日,12:00 AM,12 °C,-0 °C,31%,1001 hPa,20 km,WNW,18.0 km/h /,-,-,,Scattered Clouds
+137,2016年5月18日,3:00 AM,8 °C,-1 °C,40%,1005 hPa,20 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+138,2016年5月18日,6:00 AM,4 °C,-5 °C,40%,1010 hPa,20 km,SW,14.4 km/h /,-,-,,Scattered Clouds
+139,2016年5月18日,9:00 AM,4 °C,-3 °C,47%,1011 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+140,2016年5月18日,12:00 PM,6 °C,-3 °C,44%,1012 hPa,20 km,East,28.8 km/h /,-,-,,Mostly Cloudy
+141,2016年5月18日,3:00 PM,5 °C,-3 °C,46%,1013 hPa,10 km,ESE,18.0 km/h /,-,-,,Mostly Cloudy
+142,2016年5月18日,6:00 PM,7 °C,-2 °C,38%,1011 hPa,20 km,East,21.6 km/h /,-,-,,Mostly Cloudy
+143,2016年5月18日,9:00 PM,7 °C,-4 °C,33%,1014 hPa,20 km,ENE,25.2 km/h /,-,-,,Mostly Cloudy
+144,2016年5月19日,12:00 AM,3 °C,-8 °C,32%,1021 hPa,20 km,SSE,10.8 km/h /,-,-,,Mostly Cloudy
+145,2016年5月19日,3:00 AM,0 °C,-9 °C,35%,1024 hPa,20 km,South,14.4 km/h /,-,-,,Scattered Clouds
+146,2016年5月19日,6:00 AM,0 °C,-10 °C,33%,1023 hPa,20 km,WSW,21.6 km/h /,-,-,,Scattered Clouds
+147,2016年5月19日,9:00 AM,1 °C,-9 °C,33%,1023 hPa,20 km,West,10.8 km/h /,-,-,,Mostly Cloudy
+148,2016年5月19日,12:00 PM,6 °C,-5 °C,31%,1018 hPa,10 km,West,28.8 km/h /,-,-,,Partly Cloudy
+149,2016年5月19日,3:00 PM,4 °C,-5 °C,38%,1022 hPa,10 km,NNE,36.0 km/h /,-,-,,Mostly Cloudy
+150,2016年5月19日,6:00 PM,-1 °C,-5 °C,63%,1030 hPa,2 km,NNE,25.2 km/h /,-,-,Snow,Low Drifting Snow
+151,2016年5月19日,9:00 PM,1 °C,-9 °C,35%,1031 hPa,10 km,North,36.0 km/h /,-,-,,Overcast
+152,2016年5月20日,12:00 AM,-2 °C,-8 °C,53%,1036 hPa,20 km,NNW,3.6 km/h /,-,-,,Mostly Cloudy
+153,2016年5月20日,3:00 AM,-3 °C,-12 °C,37%,1038 hPa,20 km,NNW,7.2 km/h /,-,-,,Partly Cloudy
+154,2016年5月20日,6:00 AM,-6 °C,-9 °C,71%,1040 hPa,20 km,SSW,10.8 km/h /,-,-,,Scattered Clouds
+155,2016年5月20日,9:00 AM,-6 °C,-8 °C,73%,1042 hPa,20 km,Calm,Calm,-,-,,Partly Cloudy
+156,2016年5月20日,12:00 PM,1 °C,-9 °C,35%,1037 hPa,20 km,WNW,14.4 km/h /,-,-,,Mostly Cloudy
+157,2016年5月20日,3:00 PM,3 °C,-10 °C,26%,1035 hPa,10 km,SW,7.2 km/h /,-,-,,Mostly Cloudy
+158,2016年5月20日,6:00 PM,2 °C,-7 °C,39%,1035 hPa,10 km,SSE,14.4 km/h /,-,-,,Mostly Cloudy
+159,2016年5月20日,9:00 PM,1 °C,-8 °C,35%,1036 hPa,20 km,ENE,28.8 km/h /,-,-,,Mostly Cloudy
+160,2016年5月21日,12:00 AM,0 °C,-9 °C,38%,1038 hPa,20 km,North,3.6 km/h /,-,-,,Scattered Clouds
+161,2016年5月21日,3:00 AM,-1 °C,-7 °C,48%,1039 hPa,20 km,West,10.8 km/h /,-,-,,Mostly Cloudy
+162,2016年5月21日,6:00 AM,-1 °C,-7 °C,48%,1039 hPa,20 km,West,10.8 km/h /,-,-,,Mostly Cloudy
+163,2016年5月21日,9:00 AM,-1 °C,-7 °C,50%,1039 hPa,20 km,WSW,7.2 km/h /,-,-,,Partly Cloudy
+164,2016年5月21日,12:00 PM,3 °C,-8 °C,31%,1036 hPa,20 km,SE,7.2 km/h /,-,-,,Mostly Cloudy
+165,2016年5月21日,3:00 PM,5 °C,-6 °C,35%,1034 hPa,10 km,SE,7.2 km/h /,-,-,,Mostly Cloudy
+166,2016年5月21日,6:00 PM,2 °C,-4 °C,56%,1036 hPa,10 km,North,18.0 km/h /,-,-,Hail,Heavy Small Hail
+167,2016年5月21日,9:00 PM,2 °C,-4 °C,54%,1036 hPa,10 km,North,18.0 km/h /,-,-,,Scattered Clouds
+168,2016年5月22日,12:00 AM,-0 °C,-3 °C,77%,1038 hPa,20 km,NW,7.2 km/h /,-,-,,Mostly Cloudy
+169,2016年5月22日,3:00 AM,-1 °C,-4 °C,72%,1037 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+170,2016年5月22日,6:00 AM,-1 °C,-4 °C,76%,1036 hPa,20 km,West,10.8 km/h /,-,-,,Mostly Cloudy
+171,2016年5月22日,9:00 AM,-2 °C,-9 °C,47%,1033 hPa,20 km,West,7.2 km/h /,-,-,,Clear
+172,2016年5月22日,12:00 PM,2 °C,-4 °C,58%,1033 hPa,4 km,WNW,10.8 km/h /,-,-,Snow,Light Snow
+173,2016年5月22日,3:00 PM,4 °C,-7 °C,30%,1030 hPa,10 km,SSW,18.0 km/h /,-,-,,Mostly Cloudy
+174,2016年5月22日,6:00 PM,6 °C,-6 °C,28%,1028 hPa,20 km,North,28.8 km/h /,-,-,,Mostly Cloudy
+175,2016年5月22日,9:00 PM,5 °C,-8 °C,27%,1029 hPa,20 km,SW,7.2 km/h /,-,-,,Mostly Cloudy
+176,2016年5月23日,12:00 AM,1 °C,-5 °C,52%,1032 hPa,20 km,WSW,7.2 km/h /,-,-,,Scattered Clouds
+177,2016年5月23日,3:00 AM,-1 °C,-7 °C,51%,1033 hPa,20 km,West,7.2 km/h /,-,-,,
+178,2016年5月23日,6:00 AM,-3 °C,-10 °C,42%,1033 hPa,20 km,West,10.8 km/h /,-,-,,Scattered Clouds
+179,2016年5月23日,9:00 AM,-2 °C,-9 °C,47%,1033 hPa,20 km,West,7.2 km/h /,-,-,,Clear
+180,2016年5月23日,12:00 PM,6 °C,-9 °C,19%,1026 hPa,20 km,NW,7.2 km/h /,-,-,,Scattered Clouds
+181,2016年5月23日,3:00 PM,10 °C,-10 °C,12%,1021 hPa,20 km,ENE,7.2 km/h /,-,-,,Partly Cloudy
+182,2016年5月23日,6:00 PM,11 °C,-5 °C,20%,1020 hPa,20 km,ENE,21.6 km/h /,-,-,,Mostly Cloudy
+183,2016年5月23日,9:00 PM,11 °C,-5 °C,19%,1020 hPa,20 km,NE,25.2 km/h /,-,-,,Mostly Cloudy
+184,2016年5月24日,12:00 AM,7 °C,-5 °C,31%,1024 hPa,20 km,Calm,Calm,-,-,,Partly Cloudy
+185,2016年5月24日,3:00 AM,3 °C,-4 °C,50%,1027 hPa,20 km,WNW,3.6 km/h /,-,-,,Scattered Clouds
+186,2016年5月24日,6:00 AM,6 °C,-1 °C,51%,1025 hPa,20 km,South,14.4 km/h /,-,-,,Mostly Cloudy
+187,2016年5月24日,9:00 AM,6 °C,-3 °C,40%,1025 hPa,20 km,WNW,10.8 km/h /,-,-,,Mostly Cloudy
+188,2016年5月24日,12:00 PM,12 °C,-6 °C,16%,1020 hPa,20 km,West,25.2 km/h /,-,-,,Scattered Clouds
+189,2016年5月24日,3:00 PM,14 °C,-4 °C,17%,1018 hPa,20 km,NW,10.8 km/h /,-,-,,Mostly Cloudy
+190,2016年5月24日,6:00 PM,15 °C,-5 °C,15%,1015 hPa,10 km,East,21.6 km/h /,-,-,,Mostly Cloudy
+191,2016年5月24日,9:00 PM,13 °C,0 °C,30%,1017 hPa,20 km,ENE,14.4 km/h /,-,-,,Mostly Cloudy
+192,2016年5月25日,12:00 AM,8 °C,2 °C,60%,1022 hPa,20 km,SSE,14.4 km/h /,-,-,,Scattered Clouds
+193,2016年5月25日,3:00 AM,5 °C,1 °C,73%,1024 hPa,20 km,South,7.2 km/h /,-,-,,Scattered Clouds
+194,2016年5月25日,6:00 AM,1 °C,-2 °C,75%,1027 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+195,2016年5月25日,9:00 AM,4 °C,0 °C,65%,1025 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+196,2016年5月25日,12:00 PM,11 °C,2 °C,40%,1019 hPa,20 km,WNW,10.8 km/h /,-,-,,Scattered Clouds
+197,2016年5月25日,3:00 PM,16 °C,-1 °C,19%,1014 hPa,20 km,SSW,10.8 km/h /,-,-,,Scattered Clouds
+198,2016年5月25日,6:00 PM,18 °C,2 °C,22%,1010 hPa,20 km,SSW,10.8 km/h /,-,-,,Partly Cloudy
+199,2016年5月25日,9:00 PM,19 °C,-3 °C,14%,1008 hPa,20 km,ENE,7.2 km/h /,-,-,,Scattered Clouds
+200,2016年5月26日,12:00 AM,11 °C,-3 °C,26%,1012 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+201,2016年5月26日,3:00 AM,8 °C,-4 °C,29%,1013 hPa,20 km,West,7.2 km/h /,-,-,,Scattered Clouds
+202,2016年5月26日,6:00 AM,5 °C,-5 °C,38%,hPa,20 km,Calm,Calm,-,-,,Clear
+203,2016年5月26日,9:00 AM,8 °C,-2 °C,36%,1010 hPa,20 km,Calm,Calm,-,-,,Clear
+204,2016年5月26日,12:00 PM,16 °C,0 °C,22%,1003 hPa,20 km,West,7.2 km/h /,-,-,,Clear
+205,2016年5月26日,3:00 PM,18 °C,-4 °C,12%,1002 hPa,20 km,West,32.4 km/h /,-,-,,Scattered Clouds
+206,2016年5月26日,6:00 PM,21 °C,-3 °C,10%,998 hPa,20 km,West,21.6 km/h /,-,-,,Dust Whirls
+207,2016年5月26日,9:00 PM,21 °C,-5 °C,8%,996 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+208,2016年5月27日,12:00 AM,15 °C,-5 °C,14%,1002 hPa,20 km,WSW,18.0 km/h /,-,-,,Scattered Clouds
+209,2016年5月27日,3:00 AM,14 °C,-4 °C,17%,1003 hPa,20 km,WSW,21.6 km/h /,-,-,,Scattered Clouds
+210,2016年5月27日,6:00 AM,11 °C,-2 °C,28%,1005 hPa,20 km,West,7.2 km/h /,-,-,,Scattered Clouds
+211,2016年5月27日,9:00 AM,12 °C,0 °C,31%,1005 hPa,20 km,WSW,21.6 km/h /,-,-,,Partly Cloudy
+212,2016年5月27日,12:00 PM,15 °C,0 °C,23%,1004 hPa,20 km,West,21.6 km/h /,-,-,,Partly Cloudy
+213,2016年5月27日,3:00 PM,16 °C,2 °C,27%,1004 hPa,20 km,ENE,28.8 km/h /,-,-,,Mostly Cloudy
+214,2016年5月27日,6:00 PM,16 °C,1 °C,24%,1005 hPa,20 km,NE,18.0 km/h /,-,-,,Partly Cloudy
+215,2016年5月27日,9:00 PM,14 °C,1 °C,29%,1008 hPa,20 km,NE,25.2 km/h /,-,-,,Mostly Cloudy
+216,2016年5月28日,12:00 AM,12 °C,0 °C,33%,1013 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+217,2016年5月28日,3:00 AM,9 °C,3 °C,56%,1015 hPa,20 km,WNW,3.6 km/h /,-,-,,Mostly Cloudy
+218,2016年5月28日,6:00 AM,4 °C,-1 °C,60%,1019 hPa,20 km,SW,7.2 km/h /,-,-,,Scattered Clouds
+219,2016年5月28日,9:00 AM,7 °C,-1 °C,47%,1018 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+220,2016年5月28日,12:00 PM,13 °C,-0 °C,27%,1014 hPa,20 km,East,10.8 km/h /,-,-,,Clear
+221,2016年5月28日,3:00 PM,16 °C,-2 °C,19%,1010 hPa,20 km,SW,14.4 km/h /,-,-,,Clear
+222,2016年5月28日,6:00 PM,16 °C,-1 °C,19%,1008 hPa,20 km,ENE,14.4 km/h /,-,-,,Mostly Cloudy
+223,2016年5月28日,9:00 PM,17 °C,0 °C,21%,1007 hPa,20 km,ENE,10.8 km/h /,-,-,,Mostly Cloudy
+224,2016年5月29日,12:00 AM,13 °C,-2 °C,23%,1010 hPa,20 km,ESE,14.4 km/h /,-,-,,Partly Cloudy
+225,2016年5月29日,3:00 AM,11 °C,-1 °C,32%,1010 hPa,20 km,West,10.8 km/h /,-,-,,Scattered Clouds
+226,2016年5月29日,6:00 AM,11 °C,4 °C,54%,1010 hPa,20 km,West,18.0 km/h /,-,-,,Partly Cloudy
+227,2016年5月29日,9:00 AM,11 °C,4 °C,51%,1009 hPa,20 km,West,25.2 km/h /,-,-,,Partly Cloudy
+228,2016年5月29日,12:00 PM,14 °C,5 °C,40%,1006 hPa,20 km,West,28.8 km/h /,-,-,,Partly Cloudy
+229,2016年5月29日,3:00 PM,16 °C,5 °C,35%,1004 hPa,10 km,NNW,28.8 km/h /,-,-,,Mostly Cloudy
+230,2016年5月29日,6:00 PM,16 °C,3 °C,28%,1004 hPa,20 km,WSW,7.2 km/h /,-,-,,Mostly Cloudy
+231,2016年5月29日,9:00 PM,18 °C,5 °C,30%,1002 hPa,20 km,West,14.4 km/h /,-,-,,Mostly Cloudy
+232,2016年5月30日,12:00 AM,13 °C,2 °C,35%,1007 hPa,20 km,SW,3.6 km/h /,-,-,,Partly Cloudy
+233,2016年5月30日,3:00 AM,8 °C,1 °C,51%,1011 hPa,20 km,North,7.2 km/h /,-,-,,Scattered Clouds
+234,2016年5月30日,6:00 AM,11 °C,0 °C,37%,1010 hPa,20 km,West,25.2 km/h /,-,-,,Scattered Clouds
+235,2016年5月30日,9:00 AM,10 °C,2 °C,42%,1011 hPa,20 km,West,3.6 km/h /,-,-,,Mostly Cloudy
+236,2016年5月30日,12:00 PM,16 °C,3 °C,30%,1007 hPa,20 km,West,25.2 km/h /,-,-,,Scattered Clouds
+237,2016年5月30日,3:00 PM,19 °C,3 °C,23%,1004 hPa,20 km,WNW,21.6 km/h /,-,-,,Mostly Cloudy
+238,2016年5月30日,6:00 PM,21 °C,3 °C,20%,1002 hPa,20 km,West,14.4 km/h /,-,-,,Mostly Cloudy
+239,2016年5月30日,9:00 PM,20 °C,0 °C,16%,1003 hPa,20 km,WNW,14.4 km/h /,-,-,,Mostly Cloudy
+240,2016年6月1日,12:00 AM,16 °C,-0 °C,21%,1008 hPa,20 km,SW,14.4 km/h /,-,-,,Partly Cloudy
+241,2016年6月1日,3:00 AM,15 °C,1 °C,26%,1009 hPa,20 km,West,21.6 km/h /,-,-,,
+242,2016年6月1日,6:00 AM,12 °C,-0 °C,32%,1011 hPa,20 km,West,14.4 km/h /,-,-,,Scattered Clouds
+243,2016年6月1日,9:00 AM,14 °C,3 °C,36%,1010 hPa,20 km,NW,7.2 km/h /,-,-,,Clear
+244,2016年6月1日,12:00 PM,18 °C,3 °C,26%,1007 hPa,20 km,West,32.4 km/h /,-,-,,Clear
+245,2016年6月1日,3:00 PM,22 °C,4 °C,19%,1002 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+246,2016年6月1日,6:00 PM,24 °C,2 °C,15%,1000 hPa,20 km,WSW,25.2 km/h /,-,-,,Partly Cloudy
+247,2016年6月1日,9:00 PM,24 °C,2 °C,15%,hPa,20 km,WNW,32.4 km/h /,-,-,,Mostly Cloudy
+248,2016年6月2日,12:00 AM,19 °C,2 °C,20%,1005 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+249,2016年6月2日,3:00 AM,16 °C,3 °C,28%,1007 hPa,20 km,WSW,21.6 km/h /,-,-,,Scattered Clouds
+250,2016年6月2日,6:00 AM,15 °C,2 °C,31%,1008 hPa,20 km,West,25.2 km/h /,-,-,,Scattered Clouds
+251,2016年6月2日,9:00 AM,16 °C,4 °C,31%,1007 hPa,20 km,WNW,18.0 km/h /,-,-,,Scattered Clouds
+252,2016年6月2日,12:00 PM,19 °C,3 °C,23%,1001 hPa,20 km,WNW,21.6 km/h /,-,-,,Scattered Clouds
+253,2016年6月2日,3:00 PM,23 °C,2 °C,16%,1000 hPa,20 km,WNW,21.6 km/h /,-,-,,Partly Cloudy
+254,2016年6月2日,6:00 PM,23 °C,3 °C,16%,998 hPa,20 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+255,2016年6月2日,9:00 PM,20 °C,3 °C,21%,1001 hPa,10 km,WNW,18.0 km/h /,-,-,,Mostly Cloudy
+256,2016年6月3日,12:00 AM,16 °C,5 °C,35%,1006 hPa,20 km,WNW,21.6 km/h /,-,-,,Mostly Cloudy
+257,2016年6月3日,3:00 AM,13 °C,5 °C,48%,1009 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+258,2016年6月3日,6:00 AM,9 °C,6 °C,69%,1012 hPa,20 km,SSW,7.2 km/h /,-,-,,Scattered Clouds
+259,2016年6月3日,9:00 AM,12 °C,5 °C,52%,1011 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+260,2016年6月3日,12:00 PM,15 °C,6 °C,42%,1010 hPa,20 km,WSW,7.2 km/h /,-,-,,Scattered Clouds
+261,2016年6月3日,3:00 PM,17 °C,1 °C,24%,1008 hPa,20 km,East,18.0 km/h /,-,-,,Scattered Clouds
+262,2016年6月3日,6:00 PM,20 °C,3 °C,22%,1005 hPa,20 km,ENE,18.0 km/h /,-,-,,Scattered Clouds
+263,2016年6月3日,9:00 PM,18 °C,2 °C,23%,1006 hPa,20 km,NE,28.8 km/h /,-,-,,Scattered Clouds
+264,2016年6月4日,12:00 AM,13 °C,-1 °C,24%,1012 hPa,20 km,SE,10.8 km/h /,-,-,,Scattered Clouds
+265,2016年6月4日,3:00 AM,11 °C,-4 °C,24%,1014 hPa,20 km,SSE,10.8 km/h /,-,-,,Scattered Clouds
+266,2016年6月4日,6:00 AM,8 °C,-4 °C,29%,1016 hPa,20 km,WNW,3.6 km/h /,-,-,,Scattered Clouds
+267,2016年6月4日,9:00 AM,11 °C,-3 °C,26%,1014 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+268,2016年6月4日,12:00 PM,15 °C,-2 °C,18%,1012 hPa,20 km,ENE,7.2 km/h /,-,-,,Mostly Cloudy
+269,2016年6月4日,3:00 PM,20 °C,3 °C,20%,1007 hPa,20 km,SW,7.2 km/h /,-,-,,Partly Cloudy
+270,2016年6月4日,6:00 PM,21 °C,4 °C,21%,1006 hPa,20 km,East,21.6 km/h /,-,-,,Partly Cloudy
+271,2016年6月4日,9:00 PM,20 °C,1 °C,17%,1007 hPa,20 km,ENE,25.2 km/h /,-,-,,Mostly Cloudy
+272,2016年6月5日,12:00 AM,15 °C,2 °C,29%,1013 hPa,20 km,ESE,10.8 km/h /,-,-,,Mostly Cloudy
+273,2016年6月5日,3:00 AM,14 °C,4 °C,42%,1014 hPa,10 km,ENE,14.4 km/h /,-,-,,Mostly Cloudy
+274,2016年6月5日,6:00 AM,11 °C,5 °C,57%,1016 hPa,20 km,SSW,10.8 km/h /,-,-,,Mostly Cloudy
+275,2016年6月5日,9:00 AM,12 °C,6 °C,55%,1016 hPa,20 km,Calm,Calm,-,-,,Partly Cloudy
+276,2016年6月5日,12:00 PM,18 °C,4 °C,29%,1012 hPa,20 km,ESE,10.8 km/h /,-,-,,Scattered Clouds
+277,2016年6月5日,3:00 PM,21 °C,3 °C,21%,1010 hPa,20 km,East,18.0 km/h /,-,-,,Scattered Clouds
+278,2016年6月5日,6:00 PM,23 °C,6 °C,22%,1008 hPa,20 km,ENE,14.4 km/h /,-,-,,Partly Cloudy
+279,2016年6月5日,9:00 PM,22 °C,5 °C,21%,1008 hPa,20 km,East,14.4 km/h /,-,-,,Partly Cloudy
+280,2016年6月6日,12:00 AM,16 °C,2 °C,27%,1015 hPa,20 km,SE,10.8 km/h /,-,-,,Partly Cloudy
+281,2016年6月6日,3:00 AM,13 °C,0 °C,28%,1017 hPa,20 km,SSW,14.4 km/h /,-,-,,Scattered Clouds
+282,2016年6月6日,6:00 AM,10 °C,1 °C,40%,1019 hPa,20 km,West,7.2 km/h /,-,-,,Scattered Clouds
+283,2016年6月6日,9:00 AM,12 °C,2 °C,39%,1018 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+284,2016年6月6日,12:00 PM,20 °C,6 °C,28%,1012 hPa,20 km,NE,3.6 km/h /,-,-,,Scattered Clouds
+285,2016年6月6日,3:00 PM,22 °C,8 °C,28%,1009 hPa,20 km,North,7.2 km/h /,-,-,,Partly Cloudy
+286,2016年6月6日,6:00 PM,21 °C,8 °C,30%,1009 hPa,10 km,WNW,43.2 km/h /,-,-,,Mostly Cloudy
+287,2016年6月6日,9:00 PM,19 °C,9 °C,43%,1013 hPa,10 km,WNW,18.0 km/h /,-,-,,Mostly Cloudy
+288,2016年6月7日,12:00 AM,16 °C,9 °C,50%,1014 hPa,20 km,West,14.4 km/h /,-,-,,Mostly Cloudy
+289,2016年6月7日,3:00 AM,15 °C,9 °C,62%,1016 hPa,20 km,West,14.4 km/h /,-,-,,Scattered Clouds
+290,2016年6月7日,6:00 AM,13 °C,8 °C,66%,1017 hPa,20 km,West,10.8 km/h /,-,-,,Scattered Clouds
+291,2016年6月7日,9:00 AM,14 °C,8 °C,63%,1017 hPa,20 km,North,3.6 km/h /,-,-,,Clear
+292,2016年6月7日,12:00 PM,20 °C,7 °C,33%,1011 hPa,20 km,WSW,21.6 km/h /,-,-,,Scattered Clouds
+293,2016年6月7日,3:00 PM,22 °C,4 °C,20%,1008 hPa,20 km,WNW,21.6 km/h /,-,-,,Partly Cloudy
+294,2016年6月7日,6:00 PM,24 °C,8 °C,24%,1005 hPa,20 km,NW,18.0 km/h /,-,-,,Partly Cloudy
+295,2016年6月7日,9:00 PM,17 °C,8 °C,45%,1011 hPa,10 km,NE,14.4 km/h /,-,-,Rain,Light Rain Showers
+296,2016年6月8日,12:00 AM,14 °C,11 °C,73%,1014 hPa,20 km,SSW,18.0 km/h /,-,-,Rain,Light Rain
+297,2016年6月8日,3:00 AM,14 °C,10 °C,77%,1016 hPa,20 km,ENE,14.4 km/h /,-,-,,Partly Cloudy
+298,2016年6月8日,6:00 AM,12 °C,9 °C,78%,1016 hPa,20 km,NNE,7.2 km/h /,-,-,,Mostly Cloudy
+299,2016年6月8日,9:00 AM,12 °C,8 °C,69%,1017 hPa,20 km,East,7.2 km/h /,-,-,,Mostly Cloudy
+300,2016年6月8日,12:00 PM,16 °C,7 °C,45%,1015 hPa,20 km,West,3.6 km/h /,-,-,,Scattered Clouds
+301,2016年6月8日,3:00 PM,18 °C,5 °C,31%,1012 hPa,20 km,ESE,10.8 km/h /,-,-,,Mostly Cloudy
+302,2016年6月8日,6:00 PM,20 °C,3 °C,20%,1009 hPa,20 km,ENE,18.0 km/h /,-,-,,Scattered Clouds
+303,2016年6月8日,9:00 PM,20 °C,2 °C,20%,1009 hPa,20 km,ENE,21.6 km/h /,-,-,,Scattered Clouds
+304,2016年6月9日,12:00 AM,14 °C,2 °C,33%,1014 hPa,20 km,SE,14.4 km/h /,-,-,,Scattered Clouds
+305,2016年6月9日,3:00 AM,11 °C,-1 °C,30%,1017 hPa,20 km,South,14.4 km/h /,-,-,,Clear
+306,2016年6月9日,6:00 AM,8 °C,0 °C,44%,1018 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+307,2016年6月9日,9:00 AM,11 °C,2 °C,46%,1016 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+308,2016年6月9日,12:00 PM,16 °C,6 °C,38%,1011 hPa,20 km,East,7.2 km/h /,-,-,,Partly Cloudy
+309,2016年6月9日,3:00 PM,21 °C,3 °C,18%,1006 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+310,2016年6月9日,6:00 PM,23 °C,3 °C,17%,1003 hPa,20 km,ENE,14.4 km/h /,-,-,,Partly Cloudy
+311,2016年6月9日,9:00 PM,21 °C,4 °C,21%,1005 hPa,20 km,East,18.0 km/h /,-,-,,Mostly Cloudy
+312,2016年6月10日,12:00 AM,16 °C,7 °C,45%,1012 hPa,10 km,North,18.0 km/h /,-,-,,Mostly Cloudy
+313,2016年6月10日,3:00 AM,14 °C,10 °C,70%,1012 hPa,20 km,SW,7.2 km/h /,-,-,,Partly Cloudy
+314,2016年6月10日,6:00 AM,11 °C,7 °C,74%,1013 hPa,20 km,ESE,7.2 km/h /,-,-,,Scattered Clouds
+315,2016年6月10日,9:00 AM,12 °C,6 °C,59%,1012 hPa,20 km,NW,7.2 km/h /,-,-,,Scattered Clouds
+316,2016年6月10日,12:00 PM,18 °C,6 °C,33%,1008 hPa,20 km,NNE,3.6 km/h /,-,-,,Scattered Clouds
+317,2016年6月10日,3:00 PM,19 °C,8 °C,38%,1006 hPa,10 km,NNE,36.0 km/h /,-,-,,Mostly Cloudy
+318,2016年6月10日,6:00 PM,11 °C,9 °C,90%,1013 hPa,4 km,NNE,14.4 km/h /,-,-,"Rain
+	,
+Thunderstorm",Thunderstorms and Rain
+319,2016年6月10日,9:00 PM,14 °C,7 °C,55%,1010 hPa,10 km,WSW,7.2 km/h /,-,-,,Mostly Cloudy
+320,2016年6月11日,12:00 AM,14 °C,11 °C,75%,1010 hPa,20 km,West,21.6 km/h /,-,-,Rain,Light Rain
+321,2016年6月11日,3:00 AM,14 °C,9 °C,64%,1009 hPa,20 km,WSW,10.8 km/h /,-,-,,Partly Cloudy
+322,2016年6月11日,6:00 AM,13 °C,8 °C,63%,1009 hPa,10 km,West,14.4 km/h /,-,-,,Mostly Cloudy
+323,2016年6月11日,9:00 AM,12 °C,10 °C,89%,1010 hPa,20 km,NNE,10.8 km/h /,-,-,Rain,Light Rain
+324,2016年6月11日,12:00 PM,11 °C,8 °C,76%,1011 hPa,4 km,North,7.2 km/h /,-,-,Rain,Rain
+325,2016年6月11日,3:00 PM,15 °C,8 °C,51%,1008 hPa,10 km,SSW,10.8 km/h /,-,-,,Mostly Cloudy
+326,2016年6月11日,6:00 PM,16 °C,8 °C,50%,1007 hPa,10 km,NE,28.8 km/h /,-,-,,Mostly Cloudy
+327,2016年6月11日,9:00 PM,16 °C,7 °C,45%,1007 hPa,10 km,SSE,7.2 km/h /,-,-,Thunderstorm,Thunderstorm
+328,2016年6月12日,12:00 AM,12 °C,8 °C,72%,1012 hPa,20 km,WSW,3.6 km/h /,-,-,,Partly Cloudy
+329,2016年6月12日,3:00 AM,11 °C,8 °C,83%,1012 hPa,20 km,East,3.6 km/h /,-,-,,Partly Cloudy
+330,2016年6月12日,6:00 AM,8 °C,7 °C,88%,1013 hPa,20 km,North,3.6 km/h /,-,-,,Partly Cloudy
+331,2016年6月12日,9:00 AM,11 °C,8 °C,73%,1011 hPa,20 km,South,3.6 km/h /,-,-,,Scattered Clouds
+332,2016年6月12日,12:00 PM,15 °C,5 °C,40%,1008 hPa,20 km,ENE,10.8 km/h /,-,-,,Scattered Clouds
+333,2016年6月12日,3:00 PM,19 °C,-0 °C,16%,1004 hPa,20 km,NE,32.4 km/h /,-,-,,Partly Cloudy
+334,2016年6月12日,6:00 PM,18 °C,6 °C,32%,1004 hPa,20 km,ENE,25.2 km/h /,-,-,,Mostly Cloudy
+335,2016年6月12日,9:00 PM,18 °C,6 °C,34%,1006 hPa,20 km,ENE,25.2 km/h /,-,-,,Partly Cloudy
+336,2016年6月13日,12:00 AM,14 °C,6 °C,50%,1011 hPa,20 km,ESE,14.4 km/h /,-,-,,Scattered Clouds
+337,2016年6月13日,3:00 AM,12 °C,6 °C,53%,1012 hPa,20 km,SSE,10.8 km/h /,-,-,,Scattered Clouds
+338,2016年6月13日,6:00 AM,12 °C,5 °C,55%,1014 hPa,20 km,ESE,10.8 km/h /,-,-,,Scattered Clouds
+339,2016年6月13日,9:00 AM,13 °C,6 °C,55%,1015 hPa,20 km,South,7.2 km/h /,-,-,,Scattered Clouds
+340,2016年6月13日,12:00 PM,19 °C,4 °C,25%,1011 hPa,20 km,East,14.4 km/h /,-,-,,Mostly Cloudy
+341,2016年6月13日,3:00 PM,19 °C,4 °C,25%,1011 hPa,20 km,East,14.4 km/h /,-,-,,Mostly Cloudy
+342,2016年6月13日,6:00 PM,22 °C,4 °C,20%,1009 hPa,20 km,East,21.6 km/h /,-,-,,Partly Cloudy
+343,2016年6月13日,9:00 PM,22 °C,2 °C,16%,1008 hPa,20 km,East,18.0 km/h /,-,-,,Scattered Clouds
+344,2016年6月14日,12:00 AM,17 °C,2 °C,25%,1013 hPa,20 km,SE,14.4 km/h /,-,-,,Scattered Clouds
+345,2016年6月14日,3:00 AM,15 °C,3 °C,35%,1015 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+346,2016年6月14日,6:00 AM,13 °C,6 °C,53%,1016 hPa,20 km,Calm,Calm,-,-,,Partly Cloudy
+347,2016年6月14日,9:00 AM,14 °C,7 °C,53%,1016 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+348,2016年6月14日,12:00 PM,20 °C,5 °C,25%,1011 hPa,20 km,NNE,7.2 km/h /,-,-,,Scattered Clouds
+349,2016年6月14日,3:00 PM,25 °C,5 °C,18%,1007 hPa,20 km,ENE,18.0 km/h /,-,-,,Scattered Clouds
+350,2016年6月14日,6:00 PM,26 °C,4 °C,15%,1005 hPa,20 km,ENE,14.4 km/h /,-,-,,Scattered Clouds
+351,2016年6月14日,9:00 PM,26 °C,7 °C,20%,1004 hPa,20 km,ENE,14.4 km/h /,-,-,,Scattered Clouds
+352,2016年6月15日,12:00 AM,20 °C,5 °C,26%,1007 hPa,20 km,SSE,10.8 km/h /,-,-,,Scattered Clouds
+353,2016年6月15日,3:00 AM,17 °C,6 °C,36%,1008 hPa,20 km,West,7.2 km/h /,-,-,,Clear
+354,2016年6月15日,6:00 AM,15 °C,6 °C,44%,1010 hPa,20 km,SSW,7.2 km/h /,-,-,,Clear
+355,2016年6月15日,9:00 AM,16 °C,7 °C,48%,1009 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+356,2016年6月15日,12:00 PM,24 °C,7 °C,22%,1003 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+357,2016年6月15日,3:00 PM,27 °C,6 °C,18%,1002 hPa,20 km,NW,25.2 km/h /,-,-,,Overcast
+358,2016年6月15日,6:00 PM,28 °C,6 °C,16%,997 hPa,20 km,North,18.0 km/h /,-,-,,Overcast
+359,2016年6月15日,9:00 PM,22 °C,7 °C,26%,1002 hPa,10 km,NNE,32.4 km/h /,-,-,,Mostly Cloudy
+360,2016年6月16日,12:00 AM,16 °C,11 °C,63%,1008 hPa,10 km,SW,14.4 km/h /,-,-,Rain,Light Rain
+361,2016年6月16日,3:00 AM,15 °C,9 °C,63%,1008 hPa,20 km,NNW,10.8 km/h /,-,-,,Partly Cloudy
+362,2016年6月16日,6:00 AM,13 °C,10 °C,77%,1009 hPa,20 km,SSW,10.8 km/h /,-,-,,Mostly Cloudy
+363,2016年6月16日,9:00 AM,15 °C,8 °C,56%,1009 hPa,20 km,WSW,3.6 km/h /,-,-,,Mostly Cloudy
+364,2016年6月16日,12:00 PM,19 °C,7 °C,33%,1006 hPa,20 km,NE,7.2 km/h /,-,-,,Scattered Clouds
+365,2016年6月16日,3:00 PM,22 °C,6 °C,24%,1002 hPa,20 km,East,10.8 km/h /,-,-,,Partly Cloudy
+366,2016年6月16日,6:00 PM,23 °C,8 °C,27%,1000 hPa,20 km,NE,10.8 km/h /,-,-,,Scattered Clouds
+367,2016年6月16日,9:00 PM,24 °C,4 °C,17%,999 hPa,20 km,East,10.8 km/h /,-,-,,Scattered Clouds
+368,2016年6月17日,12:00 AM,19 °C,6 °C,31%,1003 hPa,20 km,East,10.8 km/h /,-,-,,Scattered Clouds
+369,2016年6月17日,3:00 AM,15 °C,3 °C,35%,1007 hPa,20 km,ESE,7.2 km/h /,-,-,,Clear
+370,2016年6月17日,6:00 AM,13 °C,4 °C,44%,1008 hPa,20 km,SSW,10.8 km/h /,-,-,,Scattered Clouds
+371,2016年6月17日,9:00 AM,16 °C,7 °C,45%,1006 hPa,20 km,Calm,Calm,-,-,,Partly Cloudy
+372,2016年6月17日,12:00 PM,21 °C,2 °C,16%,1002 hPa,20 km,ENE,25.2 km/h /,-,-,,Scattered Clouds
+373,2016年6月17日,3:00 PM,25 °C,3 °C,14%,997 hPa,20 km,SSE,21.6 km/h /,-,-,,Partly Cloudy
+374,2016年6月17日,6:00 PM,21 °C,6 °C,27%,999 hPa,4 km,West,14.4 km/h /,-,-,"Rain
+	,
+Thunderstorm",Thunderstorms and Rain
+375,2016年6月17日,9:00 PM,23 °C,5 °C,21%,996 hPa,20 km,SSE,10.8 km/h /,-,-,,Partly Cloudy
+376,2016年6月18日,12:00 AM,20 °C,6 °C,28%,998 hPa,10 km,West,14.4 km/h /,-,-,,Mostly Cloudy
+377,2016年6月18日,3:00 AM,15 °C,10 °C,58%,1001 hPa,20 km,West,18.0 km/h /,-,-,Rain,Light Rain
+378,2016年6月18日,6:00 AM,14 °C,9 °C,64%,1001 hPa,20 km,West,25.2 km/h /,-,-,,Partly Cloudy
+379,2016年6月18日,9:00 AM,14 °C,7 °C,54%,1003 hPa,20 km,West,36.0 km/h /,-,-,Rain,Light Rain
+380,2016年6月18日,12:00 PM,17 °C,6 °C,36%,1004 hPa,20 km,West,32.4 km/h /,-,-,,Partly Cloudy
+381,2016年6月18日,3:00 PM,19 °C,6 °C,30%,1003 hPa,20 km,West,25.2 km/h /,-,-,,Partly Cloudy
+382,2016年6月18日,6:00 PM,18 °C,6 °C,32%,1006 hPa,20 km,East,18.0 km/h /,-,-,,Mostly Cloudy
+383,2016年6月18日,9:00 PM,18 °C,5 °C,30%,1006 hPa,20 km,ENE,21.6 km/h /,-,-,,Scattered Clouds
+384,2016年6月19日,12:00 AM,14 °C,3 °C,37%,1011 hPa,20 km,East,14.4 km/h /,-,-,,Partly Cloudy
+385,2016年6月19日,3:00 AM,14 °C,4 °C,38%,1011 hPa,20 km,East,14.4 km/h /,-,-,,Mostly Cloudy
+386,2016年6月19日,6:00 AM,13 °C,5 °C,49%,1011 hPa,20 km,East,10.8 km/h /,-,-,,Mostly Cloudy
+387,2016年6月19日,9:00 AM,13 °C,5 °C,50%,1011 hPa,20 km,WNW,7.2 km/h /,-,-,,Scattered Clouds
+388,2016年6月19日,12:00 PM,18 °C,5 °C,31%,1006 hPa,20 km,NW,10.8 km/h /,-,-,,Scattered Clouds
+389,2016年6月19日,3:00 PM,20 °C,4 °C,22%,1003 hPa,20 km,WSW,21.6 km/h /,-,-,,Mostly Cloudy
+390,2016年6月19日,6:00 PM,22 °C,4 °C,19%,1000 hPa,20 km,West,18.0 km/h /,-,-,,Partly Cloudy
+391,2016年6月19日,9:00 PM,15 °C,3 °C,34%,1007 hPa,20 km,WSW,14.4 km/h /,-,-,,Partly Cloudy
+392,2016年6月20日,12:00 AM,15 °C,4 °C,37%,1006 hPa,20 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+393,2016年6月20日,3:00 AM,13 °C,2 °C,33%,1008 hPa,20 km,West,25.2 km/h /,-,-,,Mostly Cloudy
+394,2016年6月20日,6:00 AM,11 °C,1 °C,36%,1010 hPa,20 km,WSW,28.8 km/h /,-,-,,Scattered Clouds
+395,2016年6月20日,9:00 AM,11 °C,1 °C,36%,1010 hPa,20 km,West,28.8 km/h /,-,-,,Scattered Clouds
+396,2016年6月20日,12:00 PM,14 °C,0 °C,26%,1008 hPa,20 km,WNW,25.2 km/h /,-,-,,Partly Cloudy
+397,2016年6月20日,3:00 PM,17 °C,1 °C,22%,1005 hPa,20 km,West,28.8 km/h /,-,-,,Mostly Cloudy
+398,2016年6月20日,6:00 PM,19 °C,-1 °C,14%,1003 hPa,20 km,WNW,21.6 km/h /,-,-,,Partly Cloudy
+399,2016年6月20日,9:00 PM,17 °C,1 °C,22%,1005 hPa,10 km,WNW,28.8 km/h /,-,-,,Mostly Cloudy
+400,2016年6月21日,12:00 AM,14 °C,4 °C,38%,1008 hPa,20 km,East,21.6 km/h /,-,-,,Mostly Cloudy
+401,2016年6月21日,3:00 AM,12 °C,6 °C,60%,1010 hPa,20 km,SE,10.8 km/h /,-,-,,Partly Cloudy
+402,2016年6月21日,6:00 AM,9 °C,4 °C,62%,1011 hPa,20 km,SSE,7.2 km/h /,-,-,,Scattered Clouds
+403,2016年6月21日,9:00 AM,12 °C,3 °C,44%,1011 hPa,20 km,WNW,18.0 km/h /,-,-,,Scattered Clouds
+404,2016年6月21日,12:00 PM,13 °C,4 °C,40%,1009 hPa,20 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+405,2016年6月21日,3:00 PM,10 °C,7 °C,77%,1013 hPa,10 km,ENE,25.2 km/h /,-,-,Rain,Light Rain
+406,2016年6月21日,6:00 PM,12 °C,6 °C,57%,1012 hPa,10 km,NE,25.2 km/h /,-,-,,Mostly Cloudy
+407,2016年6月21日,9:00 PM,12 °C,4 °C,44%,1012 hPa,10 km,NW,21.6 km/h /,-,-,,Mostly Cloudy
+408,2016年6月22日,12:00 AM,11 °C,4 °C,51%,1015 hPa,10 km,WSW,10.8 km/h /,-,-,,Mostly Cloudy
+409,2016年6月22日,3:00 AM,8 °C,4 °C,69%,1017 hPa,20 km,West,7.2 km/h /,-,-,,Scattered Clouds
+410,2016年6月22日,6:00 AM,5 °C,3 °C,82%,1019 hPa,20 km,SSW,10.8 km/h /,-,-,,Scattered Clouds
+411,2016年6月22日,9:00 AM,9 °C,6 °C,69%,1017 hPa,20 km,ENE,3.6 km/h /,-,-,,Scattered Clouds
+412,2016年6月22日,12:00 PM,14 °C,3 °C,37%,1015 hPa,20 km,NE,7.2 km/h /,-,-,,Partly Cloudy
+413,2016年6月22日,3:00 PM,16 °C,4 °C,34%,1012 hPa,20 km,East,21.6 km/h /,-,-,,Mostly Cloudy
+414,2016年6月22日,6:00 PM,18 °C,2 °C,23%,1010 hPa,10 km,East,18.0 km/h /,-,-,Thunderstorm,Thunderstorm
+415,2016年6月22日,9:00 PM,18 °C,4 °C,28%,1010 hPa,10 km,WSW,7.2 km/h /,-,-,,Mostly Cloudy
+416,2016年6月23日,12:00 AM,13 °C,5 °C,47%,1015 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+417,2016年6月23日,3:00 AM,8 °C,3 °C,61%,1019 hPa,20 km,SW,7.2 km/h /,-,-,,Clear
+418,2016年6月23日,6:00 AM,7 °C,3 °C,66%,1020 hPa,20 km,SW,7.2 km/h /,-,-,,Clear
+419,2016年6月23日,9:00 AM,11 °C,6 °C,65%,1017 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+420,2016年6月23日,12:00 PM,16 °C,6 °C,39%,1014 hPa,20 km,ENE,18.0 km/h /,-,-,,Scattered Clouds
+421,2016年6月23日,3:00 PM,20 °C,5 °C,26%,1009 hPa,20 km,East,32.4 km/h /,-,-,,Partly Cloudy
+422,2016年6月23日,6:00 PM,22 °C,5 °C,22%,1007 hPa,20 km,SE,18.0 km/h /,-,-,,Mostly Cloudy
+423,2016年6月23日,9:00 PM,22 °C,4 °C,21%,1007 hPa,20 km,East,14.4 km/h /,-,-,,Mostly Cloudy
+424,2016年6月24日,12:00 AM,18 °C,5 °C,29%,1010 hPa,20 km,South,18.0 km/h /,-,-,,Mostly Cloudy
+425,2016年6月24日,3:00 AM,16 °C,7 °C,43%,1011 hPa,10 km,South,21.6 km/h /,-,-,Rain,Rain
+426,2016年6月24日,6:00 AM,15 °C,8 °C,50%,1010 hPa,20 km,South,21.6 km/h /,-,-,,Partly Cloudy
+427,2016年6月24日,9:00 AM,13 °C,10 °C,73%,1011 hPa,20 km,West,7.2 km/h /,-,-,,Partly Cloudy
+428,2016年6月24日,12:00 PM,16 °C,10 °C,64%,1009 hPa,10 km,ESE,25.2 km/h /,-,-,,Mostly Cloudy
+429,2016年6月24日,3:00 PM,16 °C,6 °C,38%,1008 hPa,10 km,SSE,25.2 km/h /,-,-,,Mostly Cloudy
+430,2016年6月24日,5:00 PM,17 °C,9 °C,49%,1006 hPa,10 km,WNW,25.2 km/h /,-,-,,Mostly Cloudy
+431,2016年6月24日,6:00 PM,17 °C,9 °C,49%,1006 hPa,10 km,WNW,25.2 km/h /,-,-,,Mostly Cloudy
+432,2016年6月24日,9:00 PM,16 °C,6 °C,42%,1008 hPa,20 km,SSW,28.8 km/h /,-,-,,Mostly Cloudy
+433,2016年6月25日,12:00 AM,13 °C,7 °C,55%,1011 hPa,20 km,West,18.0 km/h /,-,-,,Scattered Clouds
+434,2016年6月25日,3:00 AM,12 °C,6 °C,57%,1012 hPa,20 km,West,18.0 km/h /,-,-,,Scattered Clouds
+435,2016年6月25日,6:00 AM,10 °C,4 °C,54%,1014 hPa,20 km,WNW,14.4 km/h /,-,-,,Scattered Clouds
+436,2016年6月25日,9:00 AM,13 °C,5 °C,50%,1013 hPa,20 km,West,25.2 km/h /,-,-,,Scattered Clouds
+437,2016年6月25日,12:00 PM,17 °C,7 °C,41%,1010 hPa,20 km,West,28.8 km/h /,-,-,,Partly Cloudy
+438,2016年6月25日,3:00 PM,20 °C,3 °C,22%,1007 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+439,2016年6月25日,6:00 PM,22 °C,3 °C,18%,1004 hPa,20 km,West,25.2 km/h /,-,-,,Mostly Cloudy
+440,2016年6月25日,9:00 PM,20 °C,2 °C,19%,1006 hPa,20 km,West,21.6 km/h /,-,-,,Mostly Cloudy
+441,2016年6月26日,12:00 AM,15 °C,5 °C,41%,1012 hPa,20 km,WSW,10.8 km/h /,-,-,,Partly Cloudy
+442,2016年6月26日,3:00 AM,15 °C,6 °C,42%,1012 hPa,20 km,West,10.8 km/h /,-,-,,Mostly Cloudy
+443,2016年6月26日,6:00 AM,13 °C,5 °C,50%,1013 hPa,20 km,West,18.0 km/h /,-,-,,Scattered Clouds
+444,2016年6月26日,9:00 AM,13 °C,6 °C,50%,1014 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+445,2016年6月26日,12:00 PM,16 °C,3 °C,28%,1012 hPa,20 km,NW,14.4 km/h /,-,-,,Mostly Cloudy
+446,2016年6月26日,3:00 PM,20 °C,2 °C,21%,1009 hPa,20 km,West,18.0 km/h /,-,-,,Mostly Cloudy
+447,2016年6月26日,6:00 PM,21 °C,3 °C,20%,1007 hPa,20 km,NE,18.0 km/h /,-,-,,Mostly Cloudy
+448,2016年6月26日,9:00 PM,20 °C,5 °C,24%,1008 hPa,20 km,NE,18.0 km/h /,-,-,,Partly Cloudy
+449,2016年6月27日,12:00 AM,16 °C,6 °C,40%,1012 hPa,20 km,SSE,10.8 km/h /,-,-,,Scattered Clouds
+450,2016年6月27日,3:00 AM,13 °C,4 °C,42%,1014 hPa,20 km,South,7.2 km/h /,-,-,,Scattered Clouds
+451,2016年6月27日,6:00 AM,10 °C,3 °C,50%,1016 hPa,20 km,SW,7.2 km/h /,-,-,,Scattered Clouds
+452,2016年6月27日,9:00 AM,13 °C,4 °C,45%,1014 hPa,20 km,NNW,3.6 km/h /,-,-,,Clear
+453,2016年6月27日,12:00 PM,19 °C,6 °C,34%,1009 hPa,20 km,ENE,7.2 km/h /,-,-,,Scattered Clouds
+454,2016年6月27日,3:00 PM,22 °C,8 °C,30%,1005 hPa,20 km,North,10.8 km/h /,-,-,,Scattered Clouds
+455,2016年6月27日,6:00 PM,25 °C,6 °C,20%,1002 hPa,20 km,North,7.2 km/h /,-,-,,Partly Cloudy
+456,2016年6月27日,9:00 PM,26 °C,5 °C,16%,1001 hPa,20 km,West,10.8 km/h /,-,-,,Scattered Clouds
+457,2016年6月28日,12:00 AM,19 °C,7 °C,34%,1006 hPa,20 km,East,14.4 km/h /,-,-,,Scattered Clouds
+458,2016年6月28日,3:00 AM,17 °C,6 °C,36%,1008 hPa,20 km,SE,10.8 km/h /,-,-,,Mostly Cloudy
+459,2016年6月28日,6:00 AM,14 °C,4 °C,42%,1011 hPa,20 km,WNW,3.6 km/h /,-,-,,Scattered Clouds
+460,2016年6月28日,9:00 AM,15 °C,6 °C,43%,1010 hPa,20 km,Calm,Calm,-,-,,Scattered Clouds
+461,2016年6月28日,12:00 PM,22 °C,8 °C,30%,1005 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+462,2016年6月28日,3:00 PM,26 °C,7 °C,20%,1001 hPa,20 km,WNW,7.2 km/h /,-,-,,Partly Cloudy
+463,2016年6月28日,6:00 PM,25 °C,7 °C,22%,1000 hPa,20 km,East,21.6 km/h /,-,-,,Mostly Cloudy
+464,2016年6月28日,9:00 PM,23 °C,8 °C,26%,1002 hPa,20 km,NNE,25.2 km/h /,-,-,,Overcast
+465,2016年6月29日,12:00 AM,18 °C,10 °C,50%,1007 hPa,20 km,SW,10.8 km/h /,-,-,,Partly Cloudy
+466,2016年6月29日,3:00 AM,16 °C,10 °C,62%,1009 hPa,20 km,South,14.4 km/h /,-,-,,Partly Cloudy
+467,2016年6月29日,6:00 AM,15 °C,11 °C,69%,1009 hPa,20 km,WSW,7.2 km/h /,-,-,,Mostly Cloudy
+468,2016年6月29日,9:00 AM,13 °C,12 °C,86%,1011 hPa,10 km,West,14.4 km/h /,-,-,Rain,Light Rain
+469,2016年6月29日,12:00 PM,11 °C,9 °C,85%,1014 hPa,2 km,West,18.0 km/h /,-,-,Rain,Rain
+470,2016年6月29日,3:00 PM,11 °C,10 °C,84%,1015 hPa,4 km,West,21.6 km/h /,-,-,Rain,Light Rain
+471,2016年6月29日,6:00 PM,14 °C,7 °C,50%,1013 hPa,20 km,WNW,10.8 km/h /,-,-,,Partly Cloudy
+472,2016年6月29日,9:00 PM,16 °C,7 °C,43%,1011 hPa,20 km,East,7.2 km/h /,-,-,,Partly Cloudy
+473,2016年6月30日,12:00 AM,14 °C,8 °C,54%,1013 hPa,20 km,East,10.8 km/h /,-,-,,
+474,2016年6月30日,3:00 AM,11 °C,9 °C,82%,1014 hPa,20 km,NW,3.6 km/h /,-,-,,
+475,2016年6月30日,6:00 AM,10 °C,7 °C,80%,1015 hPa,20 km,WSW,3.6 km/h /,-,-,,Scattered Clouds
+476,2016年6月30日,9:00 AM,11 °C,8 °C,78%,1014 hPa,20 km,Calm,Calm,-,-,,Clear
+477,2016年6月30日,12:00 PM,17 °C,10 °C,55%,1009 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+478,2016年6月30日,3:00 PM,20 °C,8 °C,34%,1006 hPa,20 km,ENE,10.8 km/h /,-,-,,Scattered Clouds
+479,2016年6月30日,6:00 PM,23 °C,9 °C,29%,1002 hPa,20 km,East,7.2 km/h /,-,-,,Partly Cloudy
+480,2016年6月30日,9:00 PM,23 °C,6 °C,22%,1001 hPa,20 km,East,14.4 km/h /,-,-,,Scattered Clouds
+481,2016年7月1日,12:00 AM,19 °C,11 °C,52%,1004 hPa,20 km,ESE,7.2 km/h /,-,-,,Scattered Clouds
+482,2016年7月1日,3:00 AM,17 °C,12 °C,65%,1006 hPa,10 km,East,10.8 km/h /,-,-,Thunderstorm,Thunderstorm
+483,2016年7月1日,6:00 AM,15 °C,5 °C,38%,1006 hPa,20 km,WSW,21.6 km/h /,-,-,,Partly Cloudy
+484,2016年7月1日,9:00 AM,16 °C,6 °C,38%,1005 hPa,20 km,WNW,14.4 km/h /,-,-,,Scattered Clouds
+485,2016年7月1日,12:00 PM,20 °C,6 °C,31%,1008 hPa,20 km,West,18.0 km/h /,-,-,,Partly Cloudy
+486,2016年7月1日,3:00 PM,22 °C,3 °C,18%,1000 hPa,20 km,East,28.8 km/h /,-,-,,Partly Cloudy
+487,2016年7月1日,6:00 PM,23 °C,2 °C,15%,998 hPa,20 km,WNW,18.0 km/h /,-,-,,Partly Cloudy
+488,2016年7月1日,9:00 PM,24 °C,3 °C,15%,996 hPa,20 km,NW,7.2 km/h /,-,-,,Scattered Clouds
+489,2016年7月2日,12:00 AM,18 °C,9 °C,47%,1001 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+490,2016年7月2日,3:00 AM,16 °C,8 °C,51%,1003 hPa,20 km,East,7.2 km/h /,-,-,,Scattered Clouds
+491,2016年7月2日,6:00 AM,12 °C,8 °C,70%,1003 hPa,20 km,SW,10.8 km/h /,-,-,,Partly Cloudy
+492,2016年7月2日,9:00 AM,14 °C,9 °C,64%,1002 hPa,20 km,NW,3.6 km/h /,-,-,,Scattered Clouds
+493,2016年7月2日,12:00 PM,21 °C,8 °C,32%,997 hPa,20 km,ENE,7.2 km/h /,-,-,,Scattered Clouds
+494,2016年7月2日,3:00 PM,21 °C,6 °C,27%,996 hPa,20 km,WNW,28.8 km/h /,-,-,,Partly Cloudy
+495,2016年7月2日,6:00 PM,24 °C,7 °C,23%,993 hPa,20 km,West,18.0 km/h /,-,-,,Mostly Cloudy
+496,2016年7月2日,9:00 PM,21 °C,9 °C,36%,996 hPa,20 km,SSW,14.4 km/h /,-,-,Rain,Light Rain
+497,2016年7月3日,12:00 AM,18 °C,12 °C,58%,998 hPa,20 km,SW,10.8 km/h /,-,-,,Mostly Cloudy
+498,2016年7月3日,3:00 AM,17 °C,9 °C,46%,998 hPa,20 km,SW,10.8 km/h /,-,-,,Mostly Cloudy
+499,2016年7月3日,6:00 AM,16 °C,7 °C,46%,999 hPa,20 km,West,21.6 km/h /,-,-,,Partly Cloudy
+500,2016年7月3日,9:00 AM,16 °C,8 °C,49%,999 hPa,50 km,WSW,18.0 km/h /,-,-,,Mostly Cloudy
+501,2016年7月3日,12:00 PM,18 °C,8 °C,44%,1000 hPa,10 km,SSW,10.8 km/h /,-,-,,Mostly Cloudy
+502,2016年7月3日,3:00 PM,21 °C,8 °C,32%,997 hPa,10 km,West,18.0 km/h /,-,-,,Mostly Cloudy
+503,2016年7月3日,6:00 PM,20 °C,5 °C,27%,997 hPa,20 km,WSW,32.4 km/h /,-,-,,Mostly Cloudy
+504,2016年7月3日,9:00 PM,22 °C,6 °C,25%,996 hPa,20 km,WSW,21.6 km/h /,-,-,,Scattered Clouds
+505,2016年7月4日,12:00 AM,19 °C,6 °C,29%,1000 hPa,20 km,West,28.8 km/h /,-,-,,Scattered Clouds
+506,2016年7月4日,3:00 AM,16 °C,4 °C,35%,1004 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+507,2016年7月4日,6:00 AM,13 °C,4 °C,42%,1006 hPa,20 km,West,18.0 km/h /,-,-,,Scattered Clouds
+508,2016年7月4日,9:00 AM,16 °C,6 °C,43%,1006 hPa,20 km,WNW,7.2 km/h /,-,-,,Scattered Clouds
+509,2016年7月4日,12:00 PM,19 °C,7 °C,32%,1003 hPa,20 km,West,21.6 km/h /,-,-,,Scattered Clouds
+510,2016年7月4日,3:00 PM,22 °C,5 °C,21%,1001 hPa,20 km,West,14.4 km/h /,-,-,,Partly Cloudy
+511,2016年7月4日,6:00 PM,23 °C,5 °C,21%,999 hPa,20 km,WSW,10.8 km/h /,-,-,,Scattered Clouds
+512,2016年7月4日,9:00 PM,23 °C,5 °C,19%,999 hPa,20 km,East,10.8 km/h /,-,-,,Partly Cloudy
+513,2016年7月5日,12:00 AM,19 °C,7 °C,33%,1002 hPa,20 km,West,10.8 km/h /,-,-,,Scattered Clouds
+514,2016年7月5日,3:00 AM,15 °C,7 °C,47%,1005 hPa,20 km,WSW,7.2 km/h /,-,-,,Mostly Cloudy
+515,2016年7月5日,6:00 AM,17 °C,6 °C,38%,1004 hPa,20 km,West,10.8 km/h /,-,-,,Scattered Clouds
+516,2016年7月5日,9:00 AM,18 °C,7 °C,38%,1004 hPa,20 km,WSW,14.4 km/h /,-,-,,Scattered Clouds
+517,2016年7月5日,12:00 PM,22 °C,7 °C,27%,1001 hPa,20 km,WNW,21.6 km/h /,-,-,,Scattered Clouds
+518,2016年7月5日,3:00 PM,23 °C,8 °C,26%,1000 hPa,20 km,West,18.0 km/h /,-,-,,Partly Cloudy
+519,2016年7月5日,6:00 PM,23 °C,9 °C,31%,1001 hPa,20 km,SSW,21.6 km/h /,-,-,,Partly Cloudy
+520,2016年7月5日,9:00 PM,23 °C,8 °C,27%,1000 hPa,20 km,West,10.8 km/h /,-,-,,Clear
+521,2016年7月6日,12:00 AM,19 °C,6 °C,33%,1003 hPa,20 km,SW,14.4 km/h /,-,-,,Clear
+522,2016年7月6日,3:00 AM,16 °C,7 °C,45%,1006 hPa,20 km,NW,7.2 km/h /,-,-,,
+523,2016年7月6日,6:00 AM,14 °C,9 °C,64%,1007 hPa,20 km,SSW,3.6 km/h /,-,-,,
+524,2016年7月6日,9:00 AM,15 °C,8 °C,54%,1007 hPa,20 km,Calm,Calm,-,-,,Mostly Cloudy
+525,2016年7月6日,12:00 PM,22 °C,8 °C,31%,1003 hPa,20 km,West,14.4 km/h /,-,-,,Clear
+526,2016年7月6日,3:00 PM,24 °C,8 °C,25%,1002 hPa,20 km,West,7.2 km/h /,-,-,,Mostly Cloudy
+527,2016年7月6日,6:00 PM,25 °C,7 °C,21%,1000 hPa,20 km,South,7.2 km/h /,-,-,,Mostly Cloudy

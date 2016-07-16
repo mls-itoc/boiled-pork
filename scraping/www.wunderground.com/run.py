@@ -30,12 +30,12 @@ def main():
       data[ header[i] ] = []
 
     block_no = 44215
-    year_start = 2005
+    year_start = 2016
     year_end = 2016
     ipshell = InteractiveShellEmbed()
 
     for year in range(year_start, year_end + 1):
-        for month in range(1, 12):
+        for month in range(5, 12):
           for day in range(1, 31):
               random.randint(1, 3)
               url = ('https://www.wunderground.com/history/wmo/{0}/{1}/{2}/{3}/DailyHistory.html?req_city=Omno-Gobi&req_statename=Mongolia&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo={4}'.format(block_no, year, month, day, block_no))
