@@ -34,12 +34,9 @@ class YellowSandDataNormalization():
         # 結果格納用
         editedCsvList = []
 
-    	# ???: 場合によってはCSVのソートが必要になるかも
         openCsv = open(csvPath, "r")
         csv_reader = csv.reader(openCsv, delimiter=",", quotechar='"')
         dicCsvList = self.conversionDicCsvList(csv_reader)
-
-        print(len(dicCsvList))
 
         tmpDate = ""
         calcDirectionList = []
@@ -79,7 +76,7 @@ class YellowSandDataNormalization():
         dicCsvList = []
         ExcludedRowCount = 0
         for row in csv_reader:
-            # FIXME: ヘッダ情報を回避する必要が有る
+            # ヘッダ情報を回避する
             if ExcludedRowCount < 4 :
                 ExcludedRowCount =  ExcludedRowCount + 1
                 continue
@@ -102,7 +99,7 @@ class YellowSandDataNormalization():
     # データの編集を実行する
     def edit(self):
 
-        # TODO: フォルダを見て、すべてのCSVに関して編集するようにする
+        # 入力フォルダ内の全てのCSVを対象とする
         inputCsvPath = ""
         inputCsvDir = "CSV入力フォルダ"
 
@@ -115,7 +112,6 @@ class YellowSandDataNormalization():
         for file in files:
             inputCsvPath = inputCsvDir + file
             print(inputCsvPath)
-            # FIXME: .DS_Storeは回避する
             editedCsvLists.append(self.conversionYellowSandData(inputCsvPath))
 
         editedCsvList = editedCsvLists[0]
