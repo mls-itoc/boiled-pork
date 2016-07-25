@@ -58,7 +58,7 @@ def main():
         l = int(len(day) / column_count)
 
         for j in range(l):
-          data['年月日'].append('%s年%s月%s日' % (year, month, j+1))
+          data['年月日'].append('%s/%s/%s' % (year, month, j+1))
 
     #ipshell()
 

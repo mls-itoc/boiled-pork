@@ -19,18 +19,18 @@ def each_slice(lis, n):
         s += n
 
 def main():
-    header =  [ "時間 (ULAT)", "温度", "露点温度", "湿度", "気圧", "視程", "Wind Dir", "風速", "突風の速度", "Precip", "イベント", "現在の気象状況"]
+    header =  [ "time", "temp", "dewPointTemp", "humid", "ap", "visibility", "windDirection", "windSpeed", "gustSpeed", "Precip", "event", "situation"]
 
     column_count = len(header)
 
     data = OrderedDict()
-    data['年月日'] = []
+    data['date'] = []
 
     for i in range(0, column_count):
       data[ header[i] ] = []
 
     block_no = 44215
-    year_start = 2016
+    year_start = 2010
     year_end = 2016
     ipshell = InteractiveShellEmbed()
 
@@ -50,7 +50,7 @@ def main():
               l = int(len(row) / column_count)
 
               for j in range(l):
-                data['年月日'].append('%s年%s月%s日' % (year, month, day))
+                data['date'].append('%s/%s/%s' % (year, month, day))
 
     df = pd.DataFrame(data)
     df.to_csv("weather.csv")
